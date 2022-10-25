@@ -1,0 +1,23 @@
+{
+  "name": "ambiance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i src/input.css -o public/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visnusantos1203/ambiance-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visnusantos1203/ambiance-landing-page/issues"
+  },
+  "homepage": "https://github.com/visnusantos1203/ambiance-landing-page#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
